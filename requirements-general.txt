@@ -1,5 +1,5 @@
 # General python requirements
-# @changed 2022.03.29, 21:31
+# @changed 2024.11.19, 21:04
 # vim: ft=conf
 
 pyTelegramBotAPI==4.12.0
@@ -11,7 +11,7 @@ Flask-Mail==0.9.1
 Flask-SQLAlchemy==2.5.1
 Flask==2.0.3
 PyJWT==2.3.0
-PyYAML==6.0
+PyYAML==6.0.2
 requests==2.27.1
 termcolor==1.1.0
 tinydb==4.7.0
